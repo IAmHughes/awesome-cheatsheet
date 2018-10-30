@@ -54,7 +54,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [cpp-cheat-sheet](https://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 - [clojure-cheat-sheet](https://clojure.org/cheatsheet)
 - [clojurescript-cheat-sheet](http://cljs.info/cheatsheet/)
-- [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
+- [dart-cheat-sheet](http://dartlang.fr/dart-cheat-sheet/)
 - [delphi-cheat-sheet](http://www.cheat-sheets.org/saved-copy/dquick.pdf)
 - [dotnet-cheat-sheet](https://dzone.com/refcardz/coredotnet)
 - [elixir-cheat-sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
@@ -139,6 +139,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
 - [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet)
 - [flexbox-cheatsheet](http://vudav.github.io/flexbox-cheatsheet/)
+- [vue-cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 
 ## Back-End Development
 
@@ -157,6 +158,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Databases
 
 - [CouchDB Cheatsheet](https://wiki.apache.org/couchdb/API_Cheatsheet)
+- [Elasticsearch](http://elasticsearch-cheatsheet.jolicode.com)
 - [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/mysql/)
 - [Oracle_Programming](https://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
@@ -201,6 +203,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
     - [git-style-guide](https://github.com/agis/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
+    - [interactive git cheat sheet](https://the-awesome-git-cheat-sheet.com/)
 - [Kafka](https://github.com/Landoop/kafka-cheat-sheet)
 - [latexsheet](http://wch.github.io/latexsheet/)
 - [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
@@ -215,6 +218,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 - [sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
+- [Zypper Command Line Tool Cheatsheat](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf)
 
 ## Media
 
@@ -223,7 +227,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
-- [Penetration Testing Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [Security Tools Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 - [oauthsecurity](https://sakurity.com/oauth)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
